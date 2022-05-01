@@ -4,6 +4,8 @@ config.py
 API_practice.ipynb
 randoms_practice.ipynb
 
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
