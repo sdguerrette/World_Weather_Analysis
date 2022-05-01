@@ -1,2 +1,1 @@
-# World_Weather_Analysis
-Analysis of weather and location data using APIs
+This reposity host the code for a fictional vacation planning app that finds appropiate cities for users based on desired termperature imputs, and returns nearby hotels and travel routes to close by cities.
